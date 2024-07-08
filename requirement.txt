@@ -1,0 +1,6 @@
+ipykernal
+pandas
+numpy
+scikit-learn
+matplotlib
+Adj. R2 score:  0.9269987599562536
